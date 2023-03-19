@@ -10,3 +10,5 @@ Game Overview
 
 https://user-images.githubusercontent.com/109891950/226166264-974bcd03-2d81-4f7b-91e8-7965a048581e.mp4
 
+Thank you!
+I really appreciate all kinds of feedback and contributions. Please feel free to contribute in this project to learn or improve this.
